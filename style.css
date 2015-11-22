@@ -1,12 +1,12 @@
 button {
   color: white;
   background-color: blue;
-  border-radius: 100;
+  border-radius: 100%;
 }
 p {
   color: purple;
 }
 h1 {
-  color: blue;
+  color: navy;
   
 }
