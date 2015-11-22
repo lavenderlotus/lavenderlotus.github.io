@@ -1,8 +1,7 @@
 button {
   color: white;
   background-color: blue;
-  border-radius: 50%;
-  border: 2px solid white;
+  border: 2px solid black;
 }
 p {
   color: purple;
